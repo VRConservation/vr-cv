@@ -1,3 +1,10 @@
+---
+exports:
+  - format: typst
+    template: lapreprint-typst
+    output: exports/vr-cv.pdf
+---
+
 # C.V.
 Vance Russell has nearly 40 years of experience working in forest science & management, rewilding, biodiversity conservation, agricultural landscapes, restoration, and natural resources management. 
 

@@ -1,0 +1,43 @@
+{
+  "input": {
+    "files": [],
+    "opts": {
+      "execute": false,
+      "executeParallel": 15,
+      "pdf": false,
+      "tex": false,
+      "typst": true,
+      "docx": false,
+      "md": false,
+      "xml": false,
+      "meca": false,
+      "cff": false,
+      "site": false,
+      "html": false,
+      "all": false,
+      "doiBib": false,
+      "watch": false,
+      "force": false,
+      "checkLinks": false,
+      "strict": false,
+      "ci": false,
+      "maxSizeWebp": 1572864,
+      "keepHost": false
+    }
+  },
+  "exports": [
+    {
+      "format": "typst",
+      "template": "lapreprint-typst",
+      "output": "/home/vauncer/2-areas/books/vr-cv/exports/vr-cv.pdf",
+      "articles": [
+        {
+          "file": "/home/vauncer/2-areas/books/vr-cv/3_cv.md",
+          "level": 0
+        }
+      ],
+      "$file": "/home/vauncer/2-areas/books/vr-cv/3_cv.md",
+      "$project": "/home/vauncer/2-areas/books/vr-cv"
+    }
+  ]
+}
