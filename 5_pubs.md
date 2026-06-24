@@ -55,6 +55,8 @@ Russell, V. and J Harrison. 2026. [Forest Biomass Solutions: Integrating Biomass
 
 Russell, V. 2024. [Forest Business Alliance Guide](https://forestbiz.info/). Forest Business Alliance.
 
+Russell, V, Rinne, K, Ashmead, C, and Thomson, A. 2024. [Yuba County Forest Health Book](3point.xyz/ywabook).
+
 Russell, V. and Sacco, C. 2023. [Spatial Business Planning: Scaling Forestry Businesses with Situation Assessments and Geospatial Analysis](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693). Forest Business Alliance. 
 
 Russell, V and E. Holst. 2019. [Good fire vs. bad fire](https://www.linkedin.com/pulse/good-fire-vs-bad-vance-russell-xrzjc/). 
