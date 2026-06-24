@@ -49,7 +49,7 @@ Russell, V and J. Odefey. 2021. [Finding the arrowhead: The collaborative financ
 
 Russell, V. and J Harrison. 2026. [Donut Hole as Landscape Resilience](https://3point.xyz/donut/).
 
-Russell, V. 2026. [Predicting 2026 Wildfire](https://3point.xyz/predicting_fire2/).
+Russell, V. 2026. [Predicting 2026 Wildfires](https://3point.xyz/predicting_fire2/).
 
 Russell, V. and J Harrison. 2026. [Forest Biomass Solutions: Integrating Biomass Utilization as a Fire Mitigation Strategy](https://3point.xyz/biomass/).
 
