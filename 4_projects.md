@@ -24,7 +24,7 @@ The [Forest Business Alliance](https://www.forestbusinessalliance.org) provides 
 
 :::{important} Yuba Water Agency 💧
 :class: dropdown
-Because It's Worth It: New Approaches for Delivering Sustainable Water Infrastructure to Disadvantaged California Cities and Yuba County Forest Business Alliance
+[Because It's Worth It: New Approaches for Delivering Sustainable Water Infrastructure to Disadvantaged California Cities and Yuba County Forest Business Alliance](https://www.americanrivers.org/wp-content/uploads/2020/12/Innovative-Financing-for-DAC-Water-Projects-AR_VR.pdf) and the [Yuba County Forest Health Book](https://3point.xyz/ywabook)
 :::
 
 ## PROJECTS
