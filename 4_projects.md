@@ -2,7 +2,7 @@
 ## HIGHLIGHTS
 Select highlights of recent projects include the following: 
 
-:::{important} North Coast Resource Partnership 🐟
+:::{important} North Coast Resource Partnership 🌲💧🐟
 :class: dropdown
 Climate disaster insurance strategy (Flooding, Sea Level Rise, Wildfire).
 :::
