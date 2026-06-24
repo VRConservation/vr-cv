@@ -36,13 +36,15 @@ vance@3point.xyz | +44 7725 467072
 
 ## Leadership & Volunteering
 
+2026-present, Member, Civic Consulting Collaborative Board of Directors
+
 2023-present. Member, Civic Consulting Collaborative
 
 2018-present. Leadership Council, The Rewilding Institute
 
 2018-present. Advisory Board, Wild Farm Alliance
 
-2017-present. Trustee, South Downs National Park Trust
+2017-2026. Trustee, South Downs National Park Trust
 
 2016-2021 Board of Directors, Groundswell International. Chair 2018-2020 and Vice-Chair 2016-2018
 
