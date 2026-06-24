@@ -1,2 +1,2 @@
 # About
-Welcome to the Vance Book. This online version of my CV includes my work and educational history, projects I've worked on as a consultant with 3point.xyz, publications, and testimonials from clients about 3point.xyz's work. The full book is at [3point.xyz/vr-myst](3point.xyz/vr-myst).
+Welcome to the Vance Book. This online version of my CV includes my work and educational history, projects I've worked on as a consultant with 3point.xyz, publications, and testimonials from clients about 3point.xyz's work. The full book is at [3point.xyz/vr-cv](3point.xyz/vr-cv).
