@@ -59,7 +59,7 @@ Russell, V, Rinne, K, Ashmead, C, and Thomson, A. 2024. [Yuba County Forest Heal
 
 Russell, V. and Sacco, C. 2023. [Spatial Business Planning: Scaling Forestry Businesses with Situation Assessments and Geospatial Analysis](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693). Forest Business Alliance. 
 
-Russell, V and E. Holst. 2019. [Good fire vs. bad fire](https://www.linkedin.com/pulse/good-fire-vs-bad-vance-russell-xrzjc/). 
+Russell, V. and E. Holst. 2019. [Good fire vs. bad fire](https://www.linkedin.com/pulse/good-fire-vs-bad-vance-russell-xrzjc/). 
 :::
 
 :::{important} GEOSPATIAL
@@ -67,7 +67,7 @@ Russell, V and E. Holst. 2019. [Good fire vs. bad fire](https://www.linkedin.com
 
 Russell, V. 2026. [Free & Open Source Geospatial Tools](https://3point.xyz/geo2). 2nd Edition.
 
-Spatial Informatics Group, FlowWest, and 3point.xyz. 2025. Water Related Ecosystem Benefits and Beneficiary Geospatial Database. Watershed Research and Training Center.
+Spatial Informatics Group, FlowWest, and 3point.xyz. 2025. Water Beneficiaries Database and Report. Dashboard [link](https://flowwest.shinyapps.io/water-beneficiary-dashboard). Watershed Research and Training Center.
 
 Russell, V. 2025. [Fires in the Serengeti: Burn Severity & Remote Sensing with Earth Engine](https://wildlabs.net/article/fires-serengeti-burn-severity-remote-sensing-earth-engine). Wildlabs.
 
