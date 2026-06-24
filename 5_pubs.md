@@ -65,5 +65,11 @@ Russell, V and E. Holst. 2019. [Good fire vs. bad fire](https://www.linkedin.com
 :::{important} GEOSPATIAL
 :class: dropdown
 
-Russell, V. 2024. [Free & Open Source Geospatial Tools](https://3point.xyz/geosp).
+Russell, V. 2026. [Free & Open Source Geospatial Tools](https://3point.xyz/geo2). 2nd Edition.
+
+Spatial Informatics Group, FlowWest, and 3point.xyz. 2025. Water Related Ecosystem Benefits and Beneficiary Geospatial Database. Watershed Research and Training Center.
+
+Russell, V. 2025. [Fires in the Serengeti: Burn Severity & Remote Sensing with Earth Engine](https://wildlabs.net/article/fires-serengeti-burn-severity-remote-sensing-earth-engine). Wildlabs.
+
+Russell, V. 2024. [Free & Open Source Geospatial Tools](https://3point.xyz/geosp). 1st Edition
 :::
