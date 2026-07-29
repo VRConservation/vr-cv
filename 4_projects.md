@@ -9,7 +9,7 @@ Climate disaster insurance strategy (Flooding, Sea Level Rise, Wildfire).
 
 :::{important} Healthy Eldorado Landscape Partnership (HELP) 🌲
 :class: dropdown
-[HELP](https://healthyeldorado.org/) is a Eldorado National Forest collaborative designed to prioritize forest health projects and leverage publi and private funding for long-term forest health.
+[HELP](https://healthyeldorado.org/) is an Eldorado National Forest collaborative designed to prioritize forest health projects and leverage public and private funding for long-term forest health.
 :::
 
 :::{important} The Watershed Research and Training Center 💧
