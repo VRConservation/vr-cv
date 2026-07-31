@@ -6,8 +6,9 @@ exports:
 ---
 
 # Curriculum vitae
-Vance Russell
-vance@3point.xyz | +44 7725 467072
+Vance Russell <br>
+vance@3point.xyz <br>
++44 7725 467072
 
 Vance Russell has nearly 40 years of experience working in forest science & management, rewilding, biodiversity conservation, agricultural landscapes, restoration, and natural resources management. 
 
