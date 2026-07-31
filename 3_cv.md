@@ -10,7 +10,7 @@ Vance Russell has nearly 40 years of experience working in forest science & mana
 
 vance@3point.xyz | +44 7725 467072
 
-## EXPERIENCE
+## Experience
 
 **Conservation Consultant, 3point.xyz**. 2016-present. Providing a variety of services locally and internationally, including climate change adaptation strategies, wildlands plans, rewilding, technological solutions to managing land, geospatial data analysis, habitat restoration, sustainable forest management, project management, agricultural-environment scheme planning/evaluation, and innovative approaches to landscape-scale conservation. 
 
