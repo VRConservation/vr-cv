@@ -1,11 +1,11 @@
 ---
 exports:
   - format: typst
-    template: lapreprint-typst
+    template: ./templates/lapreprint-typst
     output: exports/vr-cv.pdf
 ---
 
-# C.V.
+# Curriculum vitae
 Vance Russell has nearly 40 years of experience working in forest science & management, rewilding, biodiversity conservation, agricultural landscapes, restoration, and natural resources management. 
 
 vance@3point.xyz | +44 7725 467072
