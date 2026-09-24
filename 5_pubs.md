@@ -1,6 +1,8 @@
 # Publications
 A list of publications by category is provided in the dropdown menus below. Most recent publications include 
 
+Russell, V. and J Harrison. 2026. [Donut Hole as Landscape Resilience](https://3point.xyz/donut/).
+
 Russell, V. and J Harrison. 2026. [Forest Biomass Solutions: Integrating Biomass Utilization as a Fire Mitigation Strategy](https://3point.xyz/biomass/).
 
 Russell, V. 2025. [JPA Funding Strategies](https://3point.xyz/neca_jpa). <br>
@@ -72,4 +74,10 @@ Spatial Informatics Group, FlowWest, and 3point.xyz. 2025. Water Beneficiaries D
 Russell, V. 2025. [Fires in the Serengeti: Burn Severity & Remote Sensing with Earth Engine](https://wildlabs.net/article/fires-serengeti-burn-severity-remote-sensing-earth-engine). Wildlabs.
 
 Russell, V. 2024. [Free & Open Source Geospatial Tools](https://3point.xyz/geosp). 1st Edition
+:::
+
+:::{important} TECH
+:class: dropdown
+
+Russell, V. 2026. [Linux vs. Windows: Time to take the plunge](https://3point.xyz/linux/).
 :::
