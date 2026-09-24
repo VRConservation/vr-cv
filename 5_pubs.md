@@ -3,9 +3,9 @@ A list of publications by category is provided in the dropdown menus below. Most
 
 Russell, V. and J Harrison. 2026. [Donut Hole as Landscape Resilience](https://3point.xyz/donut/).
 
-Russell, V. and J Harrison. 2026. [Forest Biomass Solutions: Integrating Biomass Utilization as a Fire Mitigation Strategy](https://3point.xyz/biomass/).
+Russell, V. 2026. [Predicting 2026 Wildfires](https://3point.xyz/predicting_fire2/).
 
-Russell, V. 2025. [JPA Funding Strategies](https://3point.xyz/neca_jpa). <br>
+Russell, V. and J Harrison. 2026. [Forest Biomass Solutions: Integrating Biomass Utilization as a Fire Mitigation Strategy](https://3point.xyz/biomass/). <br>
 <br>
 
 :::{important} CONSERVATION
