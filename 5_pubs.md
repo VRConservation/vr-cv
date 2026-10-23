@@ -37,7 +37,7 @@ Russell, V. 1996. The Chimalapas Ecological Campesino Reserve:  The golden gourd
 
 Russell, V. 2025. [JPA Funding Strategies](https://3point.xyz/neca_jpa).
 
-Russell, V. and J. Odefey. 2024. [Conservation Finance: Towards a New Model for Landscape Restoration](https://confinance.info/index.html).
+Russell, V. and J. Odefey. 2024. [Conservation Finance: Towards a New Model for Landscape Restoration](https://3point.xyz/confi2).
 
 Odefey, J. and V. Russell. 2020. [Because it’s worth it: New Approaches for delivering water infrastructure to disadvantaged California cities](https://srfadacip.com/wp-content/uploads/2022/05/Because-Its-Worth-It_final.pdf).  American Rivers, Nevada City, CA.
 
